@@ -1,4 +1,4 @@
- # 🐳 Docker Mini Project
+# 🐳 Docker Mini Project
 
 This project is a hands-on demonstration of Docker fundamentals, including:
 
